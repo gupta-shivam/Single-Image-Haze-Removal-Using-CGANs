@@ -1,10 +1,6 @@
 # Single Image Haze Removal using CGANs
 A fully end-to-end neural network model based on CGANs(Conditional Generative Adversarial Networks) using tensorflow.
 
-## Model Architecture
-
-<img src="figs/model.png" width="600">
-
 ## Prerequisites
 
 * TensorFlow 1.4.1 or later
