@@ -8,7 +8,7 @@ A fully end-to-end neural network model based on CGANs(Conditional Generative Ad
 
 ## Demo
 
-* Test the model for Track 1: Indoor
+* Test the model
 
 ```sh
  sh demo.sh data/indoor results/indoor models/Hazy2GT.pb
